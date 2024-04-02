@@ -1,8 +1,8 @@
 [
   {
-    "id": 1,
+    "id": "react-hooks",
     "name": "hooks",
-    "links": "hooks",
+    "link": "hooks",
     "sublinks": [
       {
         "id": "100",
