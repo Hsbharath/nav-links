@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "name" : "hooks",
-    "links" : "hooks",
-    "sublinks" : [
+    "name": "hooks",
+    "links": "hooks",
+    "sublinks": [
       {
-        "id": "100"
+        "id": "100",
         "name": "useState",
         "link": "use-state"
       },
