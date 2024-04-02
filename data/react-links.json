@@ -35,6 +35,28 @@
     "link": "rendering"
   },
   {
+    "id": "components",
+    "name" : "Components",
+    "link": "components",
+    "sublinks" : [
+      {
+        "id": "pure-impure",
+        "name": "Pure v/s Impure",
+        "link": "pure-impure"
+      },
+      {
+        "id": "stateless-stateful",
+        "name": "Stateless vs Stateful",
+        "link": "stateless-stateful"
+      },
+      {
+        "id": "controlled-uncontrolled",
+        "name": "Controlled v/s Uncontrolled",
+        "link": "controlled-uncontrolled"
+      },
+    ]
+  },
+  {
     "id": "react-hooks",
     "name": "hooks",
     "link": "hooks",
