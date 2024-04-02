@@ -1,5 +1,20 @@
 [
   {
+    "id": "react-components",
+    "name" : "React Components",
+    "link": "react-components"
+  },
+  {
+    "id": "react-elements",
+    "name" : "React Elemnets",
+    "link": "react-elements"
+  },
+  {
+    "id": "component-instances",
+    "name" : "Component Instances",
+    "link": "component-instance"
+  },
+  {
     "id": "react-hooks",
     "name": "hooks",
     "link": "hooks",
