@@ -50,9 +50,49 @@
         "link": "use-effect"
       },
       {
+        "id": "use-context",
+        "name": "useContext",
+        "link": "use-context"
+      },
+      {
+        "id": "use-reducer",
+        "name": "useReducer",
+        "link": "use-reducer"
+      },
+      {
+        "id": "use-callback",
+        "name": "useCallback",
+        "link": "use-callback"
+      },
+      {
+        "id": "use-memo",
+        "name": "useMemo",
+        "link": "use-memo"
+      },
+      {
         "id": "use-ref",
         "name": "useRef",
         "link": "use-ref"
+      },
+      {
+        "id": "use-layout-effect",
+        "name": "useLayoutEffect",
+        "link": "use-layout-effect"
+      },
+      {
+        "id": "use-id",
+        "name": "useId",
+        "link": "use-id"
+      },
+      {
+        "id": "use-imperative-handle",
+        "name": "useImperativeHandle",
+        "link": "use-imperative-handle"
+      },
+      {
+        "id": "use-deferred-value",
+        "name": "useDeferredValue",
+        "link": "use-deferred-value"
       }
     ]
   }
