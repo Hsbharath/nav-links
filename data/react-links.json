@@ -54,6 +54,11 @@
         "name": "Controlled v/s Uncontrolled",
         "link": "controlled-uncontrolled"
       },
+      {
+        "id": "higher-order-components",
+        "name": "Higher Order Components",
+        "link": "higher-order-components"
+      }
     ]
   },
   {
