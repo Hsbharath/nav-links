@@ -6,7 +6,7 @@
   },
   {
     "id": "react-elements",
-    "name" : "React Elemnets",
+    "name" : "React Elements",
     "link": "react-elements"
   },
   {
@@ -15,22 +15,42 @@
     "link": "component-instance"
   },
   {
+    "id": "dom-vdom",
+    "name" : "DOM v/s VDOM",
+    "link": "react-dom-vdom"
+  },
+  {
+    "id": "diffing-algorithm",
+    "name" : "Diffing Algorithm",
+    "link": "diff-algorithm"
+  },
+  {
+    "id": "reconciliation",
+    "name" : "Reconciliation",
+    "link": "reconciliation"
+  },
+  {
+    "id": "rendering",
+    "name" : "Rendering",
+    "link": "rendering"
+  },
+  {
     "id": "react-hooks",
     "name": "hooks",
     "link": "hooks",
     "sublinks": [
       {
-        "id": "100",
+        "id": "use-state",
         "name": "useState",
         "link": "use-state"
       },
       {
-        "id": "101",
+        "id": "use-effect",
         "name": "useEffect",
         "link": "use-effect"
       },
       {
-        "id": "102",
+        "id": "use-ref",
         "name": "useRef",
         "link": "use-ref"
       }
