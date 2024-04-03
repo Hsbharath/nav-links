@@ -1,0 +1,122 @@
+[
+  {
+    "id": "how-angular-works",
+    "question": "How does Angular work?",
+    "link": "how-angular-works"
+  },
+  {
+    "id": "ng-module",
+    "question": "NgModule",
+    "link": "ng-module"
+  },
+  {
+    "id": "components",
+    "question": "Components",
+    "link": "components",
+    "sublinks": [
+      {
+        "id": "component-architecture",
+        "question": "Component Architecture",
+        "link": "component-architecture"
+      },
+      {
+        "id": "component-interaction",
+        "question": "Component Interaction",
+        "link": "component-interaction"
+      },
+      {
+        "id": "component-lifecycle-hooks",
+        "question": "Component Lifecycle Hooks",
+        "link": "component-lifecycle-hooks"
+      }
+    ]
+  },
+  {
+    "id": "directives",
+    "question": "Directives",
+    "link": "directives",
+    "sublinks": [
+      {
+        "id": "structural-directives",
+        "question": "Structural Directives",
+        "link": "structural-directives"
+      },
+      {
+        "id": "attribute-directives",
+        "question": "Attribute Directives",
+        "link": "attribute-directives"
+      }
+    ]
+  },
+  {
+    "id": "routing",
+    "question": "Routing",
+    "link": "routing"
+  },
+  {
+    "id": "forms",
+    "question": "Forms",
+    "link": "forms",
+    "sublinks": [
+      {
+        "id": "template-driven-forms",
+        "question": "Template-driven Forms",
+        "link": "template-driven-forms"
+      },
+      {
+        "id": "reactive-forms",
+        "question": "Reactive Forms",
+        "link": "reactive-forms"
+      }
+    ]
+  },
+  {
+    "id": "pipes",
+    "question": "Pipes",
+    "link": "pipes",
+    "sublinks": [
+      {
+        "id": "built-in-pipes",
+        "question": "Built-in Pipes",
+        "link": "built-in-pipes"
+      },
+      {
+        "id": "custom-pipes",
+        "question": "Custom Pipes",
+        "link": "custom-pipes"
+      }
+    ]
+  },
+  {
+    "id": "interceptors",
+    "question": "Interceptors",
+    "link": "interceptors"
+  },
+  {
+    "id": "lifecycle-hooks",
+    "question": "Lifecycle Hooks",
+    "link": "lifecycle-hooks"
+  },
+  {
+    "id": "testing",
+    "question": "Testing",
+    "link": "testing",
+    "sublinks": [
+      {
+        "id": "unit-testing",
+        "question": "Unit Testing",
+        "link": "unit-testing"
+      },
+      {
+        "id": "integration-testing",
+        "question": "Integration Testing",
+        "link": "integration-testing"
+      },
+      {
+        "id": "e2e-testing",
+        "question": "End-to-End (E2E) Testing",
+        "link": "e2e-testing"
+      }
+    ]
+  }
+]
