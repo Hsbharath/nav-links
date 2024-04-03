@@ -1,77 +1,77 @@
 [
   {
     "id": "what-is-mongodb",
-    "question": "What is MongoDB?",
+    "name": "What is MongoDB?",
     "link": "what-is-mongodb"
   },
   {
     "id": "mongodb-data-modeling",
-    "question": "MongoDB Data Modeling",
+    "name": "MongoDB Data Modeling",
     "link": "mongodb-data-modeling"
   },
   {
     "id": "mongodb-queries",
-    "question": "MongoDB Queries",
+    "name": "MongoDB Queries",
     "link": "mongodb-queries"
   },
   {
     "id": "mongodb-aggregation-framework",
-    "question": "MongoDB Aggregation Framework",
+    "name": "MongoDB Aggregation Framework",
     "link": "mongodb-aggregation-framework"
   },
   {
     "id": "mongodb-indexes",
-    "question": "MongoDB Indexes",
+    "name": "MongoDB Indexes",
     "link": "mongodb-indexes"
   },
   {
     "id": "mongodb-transactions",
-    "question": "MongoDB Transactions",
+    "name": "MongoDB Transactions",
     "link": "mongodb-transactions"
   },
   {
     "id": "mongodb-replication",
-    "question": "MongoDB Replication",
+    "name": "MongoDB Replication",
     "link": "mongodb-replication"
   },
   {
     "id": "mongodb-sharding",
-    "question": "MongoDB Sharding",
+    "name": "MongoDB Sharding",
     "link": "mongodb-sharding"
   },
   {
     "id": "mongodb-security",
-    "question": "MongoDB Security",
+    "name": "MongoDB Security",
     "link": "mongodb-security"
   },
   {
     "id": "mongodb-backup-and-restore",
-    "question": "MongoDB Backup and Restore",
+    "name": "MongoDB Backup and Restore",
     "link": "mongodb-backup-and-restore"
   },
   {
     "id": "mongodb-performance-optimization",
-    "question": "MongoDB Performance Optimization",
+    "name": "MongoDB Performance Optimization",
     "link": "mongodb-performance-optimization"
   },
   {
     "id": "mongodb-migration",
-    "question": "MongoDB Migration",
+    "name": "MongoDB Migration",
     "link": "mongodb-migration"
   },
   {
     "id": "mongodb-integration",
-    "question": "MongoDB Integration",
+    "name": "MongoDB Integration",
     "link": "mongodb-integration"
   },
   {
     "id": "mongodb-testing",
-    "question": "MongoDB Testing",
+    "name": "MongoDB Testing",
     "link": "mongodb-testing"
   },
   {
     "id": "mongodb-monitoring",
-    "question": "MongoDB Monitoring",
+    "name": "MongoDB Monitoring",
     "link": "mongodb-monitoring"
   }
 ]
