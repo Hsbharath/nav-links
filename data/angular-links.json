@@ -1,120 +1,120 @@
 [
   {
     "id": "how-angular-works",
-    "question": "How does Angular work?",
+    "name": "How does Angular work?",
     "link": "how-angular-works"
   },
   {
     "id": "ng-module",
-    "question": "NgModule",
+    "name": "NgModule",
     "link": "ng-module"
   },
   {
     "id": "components",
-    "question": "Components",
+    "name": "Components",
     "link": "components",
     "sublinks": [
       {
         "id": "component-architecture",
-        "question": "Component Architecture",
+        "name": "Component Architecture",
         "link": "component-architecture"
       },
       {
         "id": "component-interaction",
-        "question": "Component Interaction",
+        "name": "Component Interaction",
         "link": "component-interaction"
       },
       {
         "id": "component-lifecycle-hooks",
-        "question": "Component Lifecycle Hooks",
+        "name": "Component Lifecycle Hooks",
         "link": "component-lifecycle-hooks"
       }
     ]
   },
   {
     "id": "directives",
-    "question": "Directives",
+    "name": "Directives",
     "link": "directives",
     "sublinks": [
       {
         "id": "structural-directives",
-        "question": "Structural Directives",
+        "name": "Structural Directives",
         "link": "structural-directives"
       },
       {
         "id": "attribute-directives",
-        "question": "Attribute Directives",
+        "name": "Attribute Directives",
         "link": "attribute-directives"
       }
     ]
   },
   {
     "id": "routing",
-    "question": "Routing",
+    "name": "Routing",
     "link": "routing"
   },
   {
     "id": "forms",
-    "question": "Forms",
+    "name": "Forms",
     "link": "forms",
     "sublinks": [
       {
         "id": "template-driven-forms",
-        "question": "Template-driven Forms",
+        "name": "Template-driven Forms",
         "link": "template-driven-forms"
       },
       {
         "id": "reactive-forms",
-        "question": "Reactive Forms",
+        "name": "Reactive Forms",
         "link": "reactive-forms"
       }
     ]
   },
   {
     "id": "pipes",
-    "question": "Pipes",
+    "name": "Pipes",
     "link": "pipes",
     "sublinks": [
       {
         "id": "built-in-pipes",
-        "question": "Built-in Pipes",
+        "name": "Built-in Pipes",
         "link": "built-in-pipes"
       },
       {
         "id": "custom-pipes",
-        "question": "Custom Pipes",
+        "name": "Custom Pipes",
         "link": "custom-pipes"
       }
     ]
   },
   {
     "id": "interceptors",
-    "question": "Interceptors",
+    "name": "Interceptors",
     "link": "interceptors"
   },
   {
     "id": "lifecycle-hooks",
-    "question": "Lifecycle Hooks",
+    "name": "Lifecycle Hooks",
     "link": "lifecycle-hooks"
   },
   {
     "id": "testing",
-    "question": "Testing",
+    "name": "Testing",
     "link": "testing",
     "sublinks": [
       {
         "id": "unit-testing",
-        "question": "Unit Testing",
+        "name": "Unit Testing",
         "link": "unit-testing"
       },
       {
         "id": "integration-testing",
-        "question": "Integration Testing",
+        "name": "Integration Testing",
         "link": "integration-testing"
       },
       {
         "id": "e2e-testing",
-        "question": "End-to-End (E2E) Testing",
+        "name": "End-to-End (E2E) Testing",
         "link": "e2e-testing"
       }
     ]
