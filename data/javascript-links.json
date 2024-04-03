@@ -1,145 +1,145 @@
 [
   {
     "id": "how-javascript-works",
-    "question": "How does JavaScript work?",
+    "name": "How does JavaScript work?",
     "link": "how-javascript-works"
   },
   {
     "id": "variables-and-datatypes",
-    "question": "Variables and Data Types",
+    "name": "Variables and Data Types",
     "link": "variables-and-datatypes"
   },
   {
     "id": "operators",
-    "question": "Operators",
+    "name": "Operators",
     "link": "operators"
   },
   {
     "id": "control-structures",
-    "question": "Control Structures",
+    "name": "Control Structures",
     "link": "control-structures"
   },
   {
     "id": "functions",
-    "question": "Functions",
+    "name": "Functions",
     "link": "functions",
     "sublinks": [
       {
         "id": "function-declarations-vs-expressions",
-        "question": "Function Declarations vs Expressions",
+        "name": "Function Declarations vs Expressions",
         "link": "function-declarations-vs-expressions"
       },
       {
         "id": "arrow-functions",
-        "question": "Arrow Functions",
+        "name": "Arrow Functions",
         "link": "arrow-functions"
       },
       {
         "id": "higher-order-functions",
-        "question": "Higher-Order Functions",
+        "name": "Higher-Order Functions",
         "link": "higher-order-functions"
       }
     ]
   },
   {
     "id": "objects",
-    "question": "Objects",
+    "name": "Objects",
     "link": "objects",
     "sublinks": [
       {
         "id": "object-creation",
-        "question": "Object Creation",
+        "name": "Object Creation",
         "link": "object-creation"
       },
       {
         "id": "object-properties-and-methods",
-        "question": "Object Properties and Methods",
+        "name": "Object Properties and Methods",
         "link": "object-properties-and-methods"
       },
       {
         "id": "prototypes-and-inheritance",
-        "question": "Prototypes and Inheritance",
+        "name": "Prototypes and Inheritance",
         "link": "prototypes-and-inheritance"
       }
     ]
   },
   {
     "id": "arrays",
-    "question": "Arrays",
+    "name": "Arrays",
     "link": "arrays",
     "sublinks": [
       {
         "id": "array-methods",
-        "question": "Array Methods",
+        "name": "Array Methods",
         "link": "array-methods"
       },
       {
         "id": "array-iteration",
-        "question": "Array Iteration",
+        "name": "Array Iteration",
         "link": "array-iteration"
       },
       {
         "id": "array-destructuring",
-        "question": "Array Destructuring",
+        "name": "Array Destructuring",
         "link": "array-destructuring"
       }
     ]
   },
   {
     "id": "asynchronous-javascript",
-    "question": "Asynchronous JavaScript",
+    "name": "Asynchronous JavaScript",
     "link": "asynchronous-javascript",
     "sublinks": [
       {
         "id": "callbacks",
-        "question": "Callbacks",
+        "name": "Callbacks",
         "link": "callbacks"
       },
       {
         "id": "promises",
-        "question": "Promises",
+        "name": "Promises",
         "link": "promises"
       },
       {
         "id": "async-await",
-        "question": "Async/Await",
+        "name": "Async/Await",
         "link": "async-await"
       }
     ]
   },
   {
     "id": "error-handling",
-    "question": "Error Handling",
+    "name": "Error Handling",
     "link": "error-handling"
   },
   {
     "id": "modules",
-    "question": "Modules",
+    "name": "Modules",
     "link": "modules"
   },
   {
     "id": "dom-manipulation",
-    "question": "DOM Manipulation",
+    "name": "DOM Manipulation",
     "link": "dom-manipulation"
   },
   {
     "id": "events",
-    "question": "Events",
+    "name": "Events",
     "link": "events"
   },
   {
     "id": "regular-expressions",
-    "question": "Regular Expressions",
+    "name": "Regular Expressions",
     "link": "regular-expressions"
   },
   {
     "id": "debugging",
-    "question": "Debugging",
+    "name": "Debugging",
     "link": "debugging"
   },
   {
     "id": "testing",
-    "question": "Testing",
+    "name": "Testing",
     "link": "testing"
   }
 ]
